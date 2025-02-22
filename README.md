@@ -1,5 +1,7 @@
 # VLN Cognitive Development Hub
 
+![Cognitive Framework](cognitive_framework.png)
+
 Welcome to the **VLN Cognitive Development Hub**, the official repository for "**From Perception to Reasoning: A Survey of Vision-and-Language Navigation Through Cognitive Development**" (2025), a groundbreaking survey that reimagines Vision-and-Language Navigation (VLN) through Piaget's cognitive developmental stages. This repository organizes VLN research into four evolutionary phases—Sensorimotor, Preoperational, Concrete Operational, and Formal Operational—offering a unified perspective on the field's progression from reactive systems to abstract, human-like navigational intelligence.
 
 ## 🎉 Status Update
@@ -28,8 +30,6 @@ If this repository or our framework aids your research, please consider citing:
 🔔 We'll keep this hub updated! To suggest inclusions or provide feedback, email [emal@example.com] or raise an issue. Your input ensures this resource evolves with the field.
 
 ## Cognitive Framework
-![Cognitive Framework](cognitive_framework.png)
-
 Our survey reframes VLN's evolution through Piaget's stages:
 
 ### Sensorimotor Stage: Reactive Navigation
