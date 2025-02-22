@@ -1,17 +1,17 @@
 # VLN Cognitive Development Hub
 
-Welcome to the **VLN Cognitive Development Hub**, the official repository for "**From Perception to Reasoning: A Survey of Vision-and-Language Navigation Through Cognitive Development**" (2025), a groundbreaking survey that reimagines Vision-and-Language Navigation (VLN) through Piaget’s cognitive developmental stages. This repository organizes VLN research into four evolutionary phases—Sensorimotor, Preoperational, Concrete Operational, and Formal Operational—offering a unified perspective on the field’s progression from reactive systems to abstract, human-like navigational intelligence.
+Welcome to the **VLN Cognitive Development Hub**, the official repository for "**From Perception to Reasoning: A Survey of Vision-and-Language Navigation Through Cognitive Development**" (2025), a groundbreaking survey that reimagines Vision-and-Language Navigation (VLN) through Piaget's cognitive developmental stages. This repository organizes VLN research into four evolutionary phases—Sensorimotor, Preoperational, Concrete Operational, and Formal Operational—offering a unified perspective on the field's progression from reactive systems to abstract, human-like navigational intelligence.
 
 ## 🎉 Status Update
 Our survey is under review—stay tuned for publication updates!
 
 ## Introduction
-Vision-and-Language Navigation (VLN) tasks agents with navigating photorealistic environments using natural language instructions, a challenge at the nexus of computer vision, natural language processing, and embodied AI. This survey introduces a novel top-down framework, aligning VLN’s technical milestones with Piaget’s cognitive stages: from reactive sensorimotor mappings (e.g., Seq2Seq) to symbolic preoperational processing (e.g., HAMT), structured concrete operational planning (e.g., Neural SLAM), and abstract formal operational reasoning (e.g., NavGPT). By integrating cognitive science with VLN, we:
-- Document the field’s cognitive maturation.
-- Highlight foundation models’ transformative role.
+Vision-and-Language Navigation (VLN) tasks agents with navigating photorealistic environments using natural language instructions, a challenge at the nexus of computer vision, natural language processing, and embodied AI. This survey introduces a novel top-down framework, aligning VLN's technical milestones with Piaget's cognitive stages: from reactive sensorimotor mappings (e.g., Seq2Seq) to symbolic preoperational processing (e.g., HAMT), structured concrete operational planning (e.g., Neural SLAM), and abstract formal operational reasoning (e.g., NavGPT). By integrating cognitive science with VLN, we:
+- Document the field's cognitive maturation.
+- Highlight foundation models' transformative role.
 - Propose a roadmap for human-like navigational fluency.
 
-This repository curates papers, models, datasets, and metrics, categorized by developmental stage, to support researchers exploring VLN’s past, present, and future.
+This repository curates papers, models, datasets, and metrics, categorized by developmental stage, to support researchers exploring VLN's past, present, and future.
 
 ## Citation
 If this repository or our framework aids your research, please consider citing:
@@ -25,10 +25,12 @@ If this repository or our framework aids your research, please consider citing:
 }
 ```
 
-🔔 We’ll keep this hub updated! To suggest inclusions or provide feedback, email [emal@example.com] or raise an issue. Your input ensures this resource evolves with the field.
+🔔 We'll keep this hub updated! To suggest inclusions or provide feedback, email [emal@example.com] or raise an issue. Your input ensures this resource evolves with the field.
 
 ## Cognitive Framework
-Our survey reframes VLN’s evolution through Piaget’s stages:
+![Cognitive Framework](cognitive_framework.png)
+
+Our survey reframes VLN's evolution through Piaget's stages:
 
 ### Sensorimotor Stage: Reactive Navigation
 - **Traits**: Egocentric perception, no object permanence.
@@ -121,15 +123,15 @@ Abstract reasoning and zero-shot navigation with foundation models.
 We invite the VLN community to enrich this hub:
 1. **Suggest Resources**: Propose papers, datasets, or code via issues or email.
 2. **Add Content**: Submit pull requests with categorized entries.
-3. **Discuss Ideas**: Share insights on advancing VLN’s cognitive arc.
+3. **Discuss Ideas**: Share insights on advancing VLN's cognitive arc.
 
 ## Future Vision
 This repository will grow with:
 - Implementations of proposed metrics (e.g., Subgoal Completion Rate).
-- Visualizations of VLN’s developmental stages.
+- Visualizations of VLN's developmental stages.
 - Case studies on real-world VLN deployment.
 
-Join us in shaping VLN’s journey toward artificial general intelligence!
+Join us in shaping VLN's journey toward artificial general intelligence!
 
 ---
 
