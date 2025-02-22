@@ -21,7 +21,7 @@ If this repository or our framework aids your research, please consider citing:
 ```bibtex
 @article{gao2025perception,
     title={From Perception to Reasoning: A Survey of Vision-and-Language Navigation Through Cognitive Development},
-    author={Gao, Peng and Wang, Peng and Fujita, Hamido and Wang, Fei and Yuan, Ru-Yue},
+    author={},
     journal={}, 
     year={2025},
     volume={},  
